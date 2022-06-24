@@ -8,11 +8,11 @@
   --font-primary: "Comfortaa", sans-serif;
   --font-secondary: "Comfortaa", serif;
   --font-code: "Comfortaa", monospace;
-  --bg-color: #00163f;
-  --bg-color-transparent: #00163f80;
+  --bg-color: #6a9eff;
+  --bg-color-transparent: #010a1a80;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #000000;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
