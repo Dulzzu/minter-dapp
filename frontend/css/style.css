@@ -113,7 +113,7 @@ header .container {
   transition: all 0.3s ease;
   box-shadow: var(--header-shadow);
   cursor: pointer;
-  position: relative;
+  position: center;
   text-decoration: none;
   outline: none;
 }
